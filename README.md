@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://sandiphembram.hashnode.dev/](https://sandiphembram.hashnode.dev/)
 
-- 💬 Ask me about **python,react, html , css , js**
+- 💬 Ask me about **python, html , css , js**
 
 - 📫 How to reach me **sandiphembram2021@gmail.com**
 
