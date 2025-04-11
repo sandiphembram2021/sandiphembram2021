@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandiphembram2021" alt="sandiphembram2021" /></a> </p>
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **python, panads , numpay , pytorch**
 
 - 👨‍💻 All of my projects are available at [https://my-web-page-alpha.vercel.app/](https://my-web-page-alpha.vercel.app/)
 
 - 📝 I regularly write articles on [https://sandiphembram.hashnode.dev/](https://sandiphembram.hashnode.dev/)
 
-- 💬 Ask me about **python, panads , numpay , pytorch**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **sandiphembram2021@gmail.com**
 
