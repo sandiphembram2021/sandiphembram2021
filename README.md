@@ -41,7 +41,7 @@ I'm a passionate Computer Engineer, entrepreneur, and open-source enthusiast. I 
 
 ## 📬 Let's Connect!
 
-- 📧 Email: snadiphembram2021@gmail.com 
+- 📧 Email: sandiphembram2021@gmail.com 
 - 💼 LinkedIn: *(Add your LinkedIn link here)*  
 - 🐦 Twitter/X: *(Optional)*  
 - 🌐 Website: *(Optional)*
