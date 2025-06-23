@@ -2,7 +2,7 @@
 
 🎓 B.Tech in Computer Science and Engineering  
 📍 Based in West Bengal, India  
-🌐 [My Portfolio Website](#) *(Add your website if you have one)*  
+
 
 ---
 
@@ -39,7 +39,7 @@ I'm a passionate Computer Engineer, entrepreneur, and open-source enthusiast. I 
 
 ## 📬 Let's Connect!
 
-- 📧 Email: [info.zancap@gmail.com](mailto:info.zancap@gmail.com)  
+- 📧 Email: snadiphembram2021@gmail.com 
 - 💼 LinkedIn: *(Add your LinkedIn link here)*  
 - 🐦 Twitter/X: *(Optional)*  
 - 🌐 Website: *(Optional)*
