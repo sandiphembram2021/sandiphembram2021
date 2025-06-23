@@ -1,33 +1,49 @@
-<h1 align="center">Hi 👋, I'm Sandip Hembram</h1>
-<h3 align="center">A passionate frontend developer and Machine Lerning from India</h3>
+# 👋 Hi, I'm Sandip Hembram
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandiphembram2021&label=Profile%20views&color=0e75b6&style=flat" alt="sandiphembram2021" /> </p>
+🎓 B.Tech in Computer Science and Engineering  
+📍 Based in West Bengal, India  
+🌐 [My Portfolio Website](#) *(Add your website if you have one)*  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandiphembram2021" alt="sandiphembram2021" /></a> </p>
+---
 
-- 🌱 I’m currently learning **python, panads , numpay , pytorch**
+## 💡 About Me
 
-- 👨‍💻 All of my projects are available at [https://my-web-page-alpha.vercel.app/](https://my-web-page-alpha.vercel.app/)
+I'm a passionate Computer Engineer, entrepreneur, and open-source enthusiast. I love solving real-world problems using code, and I’ve been involved in building innovative projects—from AI-based applications to student-focused platforms like **MessMate**.  
 
-- 📝 I regularly write articles on [https://sandiphembram.hashnode.dev/](https://sandiphembram.hashnode.dev/)
+🚀 I’ve contributed to and developed:  
+- 🤖 [Santali Digital Assistant](https://github.com/sandiphembram2021/santali_lang_recon)  
+- 🏥 [Surgical Navigation AI](https://github.com/sandiphembram2021/surgical-nav-ai)  
+- 🧬 [Protein-Protein Interaction Predictor](https://github.com/sandiphembram2021/ppi-tui-predictor)  
+- 🌐 [Portfolio Backend API](https://github.com/sandiphembram2021/portfolio-backend)  
 
-- 💬 Ask me about **python**
+---
 
-- 📫 How to reach me **sandiphembram2021@gmail.com**
+## 🛠️ Skills & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@sandip-hembram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sandip-hembram" height="30" width="40" /></a>
-<a href="https://dev.to/sandiph75207041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sandiph75207041" height="30" width="40" /></a>
-<a href="https://twitter.com/@sandiph75207041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sandiph75207041" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sandip-hembram-400099261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandip-hembram-400099261/" height="30" width="40" /></a>
-<a href="https://fb.com/sandip.hembram.395017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandip.hembram.395017" height="30" width="40" /></a>
-<a href="https://hashnode.com/@sandip123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sandip123" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sandiphembram2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sandiphembram2" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sandiphembram201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandiphembram201" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sandiphembram2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandiphembram2021" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sandiphemkezd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sandiphemkezd" height="30" width="40" /></a>
-</p>
+- **Languages:** Python, C, C++, JavaScript, Go  
+- **Web:** HTML, CSS, React, Node.js, REST APIs  
+- **Data & AI:** Machine Learning, Natural Language Processing  
+- **Tools:** Git, Docker, Linux (Ubuntu), Postman  
+- **Other:** System Call Optimization, UI/UX Design, Technical Content Writing  
 
-alt="sandiphembram2021" /></p>
+---
 
+## 📚 Current Focus
+
+- 🔬 Research in OS-level performance optimization  
+- 🧑‍🏫 Teaching and guiding students in Physics & CS  
+- 📲 Expanding **MessMate** to serve more students  
+- 🎥 Building content for my travel & tutorial YouTube channel  
+
+---
+
+## 📬 Let's Connect!
+
+- 📧 Email: [info.zancap@gmail.com](mailto:info.zancap@gmail.com)  
+- 💼 LinkedIn: *(Add your LinkedIn link here)*  
+- 🐦 Twitter/X: *(Optional)*  
+- 🌐 Website: *(Optional)*
+
+---
+
+> *“Code with purpose, build with heart.”*
