@@ -30,10 +30,12 @@ I'm a passionate Computer Engineer, entrepreneur, and open-source enthusiast. I 
 
 ## 📚 Current Focus
 
-- 🔬 Research in OS-level performance optimization  
-- 🧑‍🏫 Teaching and guiding students in Physics & CS  
-- 📲 Expanding **MessMate** to serve more students  
-- 🎥 Building content for my travel & tutorial YouTube channel  
+- 🧠 Advancing research in **System Call Optimization** and **Operating System internals**
+- 🧪 Building AI/ML-based tools with real-world impact, especially in **speech recognition** and **language processing**
+- 🧰 Developing and maintaining full-stack applications using **Go**, **React**, and **Node.js**
+- 🧑‍💻 Contributing to open-source projects, particularly in **dev tools**, **productivity apps**, and **student tech**
+- 🧱 Experimenting with **Linux kernel modules** and **low-level systems programming**
+
 
 ---
 
