@@ -1,51 +1,27 @@
-# 👋 Hi, I'm Sandip Hembram
+<h1 align="center">Hi 👋, I'm Sandip Hembram</h1>
+<h3 align="center">A passI'm a passionate Computer Engineer, entrepreneur, and open-source enthusiast. I love solving real-world problems using code, and I’ve been involved in building innovative projects—from AI-based applications to student-focused platforms like MessMate.ionate frontend developer from India</h3>
 
-🎓 B.Tech in Computer Science and Engineering  
-📍 Based in West Bengal, India  
+- 🔭 I’m currently working on [stock-price-prediction](https://github.com/sandiphembram2021/stock-price-prediction.git)
 
+- 🌱 I’m currently learning **Machine Learning and AI, focusing on real-world projects.**
 
----
+- 👯 I’m looking to collaborate on [I’m looking to collaborate on open-source AI/ML projects, especially in regional language processing.](https://github.com/sandiphembram2021/santali_lang_recon.git)
 
-## 💡 About Me
+- 🤝 I’m looking for help with **🤝 I’m looking for help with deploying ML models to production using Docker and cloud services.**
 
-I'm a passionate Computer Engineer, entrepreneur, and open-source enthusiast. I love solving real-world problems using code, and I’ve been involved in building innovative projects—from AI-based applications to student-focused platforms like **MessMate**.  
+- 👨‍💻 All of my projects are available at [💼 All of my projects are available at: https://github.com/sandiphembram2021](💼 All of my projects are available at: https://github.com/sandiphembram2021)
 
-🚀 I’ve contributed to and developed:  
-- 🤖 [Santali Digital Assistant](https://github.com/sandiphembram2021/santali_lang_recon)  
-- 🏥 [Surgical Navigation AI](https://github.com/sandiphembram2021/surgical-nav-ai)  
-- 🧬 [Protein-Protein Interaction Predictor](https://github.com/sandiphembram2021/ppi-tui-predictor)  
-- 🌐 [Portfolio Backend API](https://github.com/sandiphembram2021/portfolio-backend)  
+- 💬 Ask me about **how I built my GitHub projects or contributed to open-source.**
 
----
+- 📫 How to reach me **📫 How to reach me: LinkedIn or drop an email at sandiphembram2021@gmail.com**
 
-## 🛠️ Skills & Tools
+- ⚡ Fun fact **I’m a techie by day and a YouTube content creator by night.**
 
-- **Languages:** Python, C, C++, JavaScript, Go  
-- **Web:** HTML, CSS, React, Node.js, REST APIs  
-- **Data & AI:** Machine Learning, Natural Language Processing  
-- **Tools:** Git, Docker, Linux (Ubuntu), Postman  
-- **Other:** System Call Optimization, UI/UX Design, Technical Content Writing  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sandiph75207041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandiph75207041" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandip-hembram-400099261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandip-hembram-400099261/" height="30" width="40" /></a>
+</p>
 
----
-
-## 📚 Current Focus
-
-- 🧠 Advancing research in **System Call Optimization** and **Operating System internals**
-- 🧪 Building AI/ML-based tools with real-world impact, especially in **speech recognition** and **language processing**
-- 🧰 Developing and maintaining full-stack applications using **Go**, **React**, and **Node.js**
-- 🧑‍💻 Contributing to open-source projects, particularly in **dev tools**, **productivity apps**, and **student tech**
-- 🧱 Experimenting with **Linux kernel modules** and **low-level systems programming**
-
-
----
-
-## 📬 Let's Connect!
-
-- 📧 Email: sandiphembram2021@gmail.com 
-- 💼 LinkedIn: *(Add your LinkedIn link here)*  
-- 🐦 Twitter/X: *(Optional)*  
-- 🌐 Website: *(Optional)*
-
----
-
-> *“Code with purpose, build with heart.”*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
