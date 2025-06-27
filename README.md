@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Machine Learning and AI, focusing on real-world projects.**
 
-- 👯 I’m looking to collaborate on [on open-source AI/ML projects, especially in regional language processing.](https://github.com/sandiphembram2021/santali_lang_recon.git)
+- 👯 I’m looking to collaborate on [ open-source AI/ML projects, especially in regional language processing.](https://github.com/sandiphembram2021/santali_lang_recon.git)
 
-- 🤝 I’m looking for help with **🤝 I’m looking for help with deploying ML models to production using Docker and cloud services.**
+- 🤝 I’m looking for help with ** deploying ML models to production using Docker and cloud services.**
 
 - 👨‍💻 All of my projects are available at  https://github.com/sandiphembram2021
 - 💬 Ask me about **how I built my GitHub projects or contributed to open-source.**
